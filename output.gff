@@ -1,0 +1,13 @@
+EleusineJA56_contig240	blast_result	hit	160	275	.	-	.	ID=31:1_1;Parent=EleusineJA56_contig240;QueryLength=0;QueryStart=1;QueryStop=116;Bitscore=215;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=274
+EleusineJA56_contig240	blast_result	hit	156	275	.	-	.	ID=33:1_1;Parent=EleusineJA56_contig240;QueryLength=0;QueryStart=1;QueryStop=120;Bitscore=222;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=274
+EleusineJA56_contig240	blast_result	hit	156	275	.	-	.	ID=34:1_1;Parent=EleusineJA56_contig240;QueryLength=1;QueryStart=1;QueryStop=120;Bitscore=217;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=274
+EleusineJA56_contig1129	blast_result	hit	1811	1900	.	+	.	ID=51:1_1;Parent=EleusineJA56_contig1129;QueryLength=0;QueryStart=1;QueryStop=90;Bitscore=167;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=1810
+EleusineJA56_contig1129	blast_result	hit	1811	1900	.	+	.	ID=52:1_1;Parent=EleusineJA56_contig1129;QueryLength=0;QueryStart=31;QueryStop=120;Bitscore=167;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=1810
+EleusineJA56_contig240	blast_result	hit	190	277	.	-	.	ID=150:3_1;Parent=EleusineJA56_contig240;QueryLength=0;QueryStart=5;QueryStop=92;Bitscore=163;NumberOfReads=3;color=#3800C6;distanceToNearestEnd=276
+EleusineJA56_contig240	blast_result	hit	180	284	.	-	.	ID=162:1_1;Parent=EleusineJA56_contig240;QueryLength=2;QueryStart=16;QueryStop=120;Bitscore=183;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=283
+EleusineJA56_contig240	blast_result	hit	174	284	.	-	.	ID=163:2_1;Parent=EleusineJA56_contig240;QueryLength=2;QueryStart=10;QueryStop=120;Bitscore=195;NumberOfReads=2;color=#1C00E2;distanceToNearestEnd=283
+EleusineJA56_contig240	blast_result	hit	170	275	.	-	.	ID=190:1_1;Parent=EleusineJA56_contig240;QueryLength=0;QueryStart=1;QueryStop=106;Bitscore=196;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=274
+EleusineJA56_contig1129	blast_result	hit	1811	1886	.	+	.	ID=237:1_1;Parent=EleusineJA56_contig1129;QueryLength=0;QueryStart=7;QueryStop=82;Bitscore=141;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=1810
+EleusineJA56_contig1129	blast_result	hit	1811	1924	.	+	.	ID=247:1_1;Parent=EleusineJA56_contig1129;QueryLength=0;QueryStart=7;QueryStop=120;Bitscore=211;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=1810
+EleusineJA56_contig1129	blast_result	hit	1811	1871	.	+	.	ID=266:1_1;Parent=EleusineJA56_contig1129;QueryLength=0;QueryStart=13;QueryStop=73;Bitscore=113;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=1810
+EleusineJA56_contig50	blast_result	hit	301	414	.	+	.	ID=340:1_1;Parent=EleusineJA56_contig50;QueryLength=0;QueryStart=7;QueryStop=120;Bitscore=211;NumberOfReads=1;color=#0000FF;distanceToNearestEnd=300
